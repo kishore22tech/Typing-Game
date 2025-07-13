@@ -34,5 +34,5 @@ A fun and interactive typing speed test game built using **HTML, CSS, and JavaSc
 
 ---
 
-## 📂 File Structure
+
 
